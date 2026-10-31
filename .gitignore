@@ -1,0 +1,9 @@
+# Python & Virtual Environments
+venv/
+__pycache__/
+*.pyc
+
+# Geospatial temp files
+*.tif
+*.shp
+.DS_Store
